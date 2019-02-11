@@ -1,2 +1,2 @@
-# discord_library
+# Discord Library
 A simple discord library.
